@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Lo que venia/Scenes/SampleScene.unity
+- path: Assets/Escena/Prueba.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
